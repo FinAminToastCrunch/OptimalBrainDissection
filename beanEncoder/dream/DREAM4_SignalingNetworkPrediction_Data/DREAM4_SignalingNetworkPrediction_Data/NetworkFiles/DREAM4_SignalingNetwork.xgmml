@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graph label="NetworkDREAM.sif" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML"  directed="1">
+  <att name="documentVersion" value="1.1"/>
+  <att name="networkMetadata">
+    <rdf:RDF>
+      <rdf:Description rdf:about="http://www.cytoscape.org/">
+        <dc:type>Protein-Protein Interaction</dc:type>
+        <dc:description>N/A</dc:description>
+        <dc:identifier>N/A</dc:identifier>
+        <dc:date>2009-06-14 15:17:34</dc:date>
+        <dc:title>NetworkDREAM.sif</dc:title>
+        <dc:source>http://www.cytoscape.org/</dc:source>
+        <dc:format>Cytoscape-XGMML</dc:format>
+      </rdf:Description>
+    </rdf:RDF>
+  </att>
+  <att type="string" name="backgroundColor" value="#ffffff"/>
+  <att type="real" name="GRAPH_VIEW_ZOOM" value="0.6463910887219555"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_X" value="307.630615234375"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_Y" value="534.4736735026053"/>
+  <node label="prak" id="-41">
+    <att type="string" name="canonicalName" value="prak"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="420.25" y="939.0" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="map3k7" id="-40">
+    <att type="string" name="canonicalName" value="map3k7"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="372.375" y="270.0" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="pip3" id="-39">
+    <att type="string" name="canonicalName" value="pip3"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="164.60765075683594" y="538.607666015625" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="hsp27" id="-38">
+    <att type="string" name="typeexp" value="readout"/>
+    <att type="string" name="canonicalName" value="hsp27"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="420.25" y="994.4837646484375" fill="#0033ff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="pak" id="-37">
+    <att type="string" name="canonicalName" value="pak"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="79.89234924316406" y="723.1672973632812" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="rac" id="-35">
+    <att type="string" name="canonicalName" value="rac"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="73.5" y="570.0" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="raf1" id="-34">
+    <att type="string" name="canonicalName" value="raf1"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="69.5" y="858.0" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="mek12" id="-33">
+    <att type="string" name="typeexp" value="inhibreadout"/>
+    <att type="string" name="canonicalName" value="mek12"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="69.5" y="908.0" fill="#990099" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="irs1" id="-32">
+    <att type="string" name="canonicalName" value="irs1"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="155.96524047851562" y="211.25311279296875" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="nik" id="-31">
+    <att type="string" name="canonicalName" value="nik"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="377.138671875" y="869.3449096679688" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="map3k1" id="-30">
+    <att type="string" name="canonicalName" value="map3k1"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="250.96530151367188" y="568.7367553710938" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="grb2" id="-29">
+    <att type="string" name="canonicalName" value="grb2"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="13.0" y="268.607666015625" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="mkk4" id="-28">
+    <att type="string" name="canonicalName" value="mkk4"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="335.06573486328125" y="721.13330078125" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="igf1" id="-27">
+    <att type="string" name="typeexp" value="stimulus"/>
+    <att type="string" name="canonicalName" value="igf1"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="136.46524047851562" y="101.25311279296875" fill="#00ff00" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="mkk7" id="-26">
+    <att type="string" name="canonicalName" value="mkk7"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="249.0" y="720.0" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="igfr" id="-25">
+    <att type="string" name="canonicalName" value="igfr"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="136.46524047851562" y="151.25311279296875" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="sos" id="-24">
+    <att type="string" name="canonicalName" value="sos"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="13.0" y="340.0" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="ikk" id="-23">
+    <att type="string" name="typeexp" value="inhibited"/>
+    <att type="string" name="canonicalName" value="ikk"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="260.125" y="870.0" fill="#ff0033" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="akt" id="-22">
+    <att type="string" name="typeexp" value="readout"/>
+    <att type="string" name="canonicalName" value="akt"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="164.5" y="718.607666015625" fill="#0033ff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="traf6" id="-21">
+    <att type="string" name="canonicalName" value="traf6"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="438.375" y="210.0" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="il1r" id="-20">
+    <att type="string" name="canonicalName" value="il1r"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="438.375" y="150.0" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="p38" id="-19">
+    <att type="string" name="typeexp" value="inhibreadout"/>
+    <att type="string" name="canonicalName" value="p38"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="462.4928283691406" y="817.8468627929688" fill="#990099" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="shc" id="-18">
+    <att type="string" name="canonicalName" value="shc"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="88.83976745605469" y="214.1770477294922" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="mkk6" id="-17">
+    <att type="string" name="canonicalName" value="mkk6"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="478.6986083984375" y="430.3785705566406" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="tgfa" id="-16">
+    <att type="string" name="typeexp" value="stimulus"/>
+    <att type="string" name="canonicalName" value="tgfa"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="15.0" y="100.0" fill="#00ff00" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="traf2" id="-15">
+    <att type="string" name="canonicalName" value="traf2"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="284.75" y="210.0" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="sitpec" id="-14">
+    <att type="string" name="canonicalName" value="sitpec"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="475.78662109375" y="313.8282470703125" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="jnk12" id="-13">
+    <att type="string" name="typeexp" value="readout"/>
+    <att type="string" name="canonicalName" value="jnk12"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="284.0" y="790.0" fill="#0033ff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="pi3k" id="-12">
+    <att type="string" name="typeexp" value="inhibited"/>
+    <att type="string" name="canonicalName" value="pi3k"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="144.30325317382812" y="403.579833984375" fill="#ff0033" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="ras" id="-11">
+    <att type="string" name="canonicalName" value="ras"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="13.0" y="400.0" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="ikb" id="-10">
+    <att type="string" name="typeexp" value="readout"/>
+    <att type="string" name="canonicalName" value="ikb"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="260.125" y="920.0" fill="#0033ff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="egfr" id="-9">
+    <att type="string" name="canonicalName" value="egfr"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="15.0" y="150.0" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="tnfr" id="-8">
+    <att type="string" name="canonicalName" value="tnfr"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="262.625" y="150.0" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="il1a" id="-7">
+    <att type="string" name="typeexp" value="stimulus"/>
+    <att type="string" name="canonicalName" value="il1a"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="438.375" y="100.0" fill="#00ff00" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="cot" id="-6">
+    <att type="string" name="canonicalName" value="cot"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="176.25" y="830.0" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="mkk3" id="-5">
+    <att type="string" name="canonicalName" value="mkk3"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="440.45550537109375" y="470.7413330078125" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="erk12" id="-4">
+    <att type="string" name="typeexp" value="readout"/>
+    <att type="string" name="canonicalName" value="erk12"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="199.43699645996094" y="956.9766235351562" fill="#0033ff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="pdk1" id="-3">
+    <att type="string" name="canonicalName" value="pdk1"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="166.60765075683594" y="628.607666015625" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="tnfa" id="-2">
+    <att type="string" name="typeexp" value="stimulus"/>
+    <att type="string" name="canonicalName" value="tnfa"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="262.625" y="100.0" fill="#00ff00" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <node label="ask1" id="-1">
+    <att type="string" name="canonicalName" value="ask1"/>
+    <graphics type="ELLIPSE" h="30.0" w="70.0" x="231.5" y="270.0" fill="#cccccc" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-12" cy:borderLineType="solid"/>
+  </node>
+  <edge label="prak (activates) hsp27" source="-41" target="-38">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="prak (activates) hsp27"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="map3k7 (activates) mkk7" source="-40" target="-26">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="map3k7 (activates) mkk7"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="map3k7 (activates) nik" source="-40" target="-31">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="map3k7 (activates) nik"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="map3k7 (activates) mkk3" source="-40" target="-5">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="map3k7 (activates) mkk3"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="map3k7 (activates) mkk6" source="-40" target="-17">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="map3k7 (activates) mkk6"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="map3k7 (activates) mkk4" source="-40" target="-28">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="map3k7 (activates) mkk4"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="pip3 (activates) pdk1" source="-39" target="-3">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="pip3 (activates) pdk1"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="pak (activates) raf1" source="-37" target="-34">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="pak (activates) raf1"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="rac (activates) map3k1" source="-35" target="-30">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="rac (activates) map3k1"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="rac (activates) pak" source="-35" target="-37">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="rac (activates) pak"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="raf1 (activates) mek12" source="-34" target="-33">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="raf1 (activates) mek12"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mek12 (activates) erk12" source="-33" target="-4">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="mek12 (activates) erk12"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="irs1 (activates) pi3k" source="-32" target="-12">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="irs1 (activates) pi3k"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="nik (activates) ikk" source="-31" target="-23">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="nik (activates) ikk"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="map3k1 (activates) mkk7" source="-30" target="-26">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="map3k1 (activates) mkk7"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="map3k1 (activates) ikk" source="-30" target="-23">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="map3k1 (activates) ikk"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="map3k1 (activates) mkk4" source="-30" target="-28">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="map3k1 (activates) mkk4"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="grb2 (activates) sos" source="-29" target="-24">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="grb2 (activates) sos"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mkk4 (activates) p38" source="-28" target="-19">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="mkk4 (activates) p38"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mkk4 (activates) jnk12" source="-28" target="-13">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="mkk4 (activates) jnk12"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="igf1 (activates) igfr" source="-27" target="-25">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="igf1 (activates) igfr"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mkk7 (activates) jnk12" source="-26" target="-13">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="mkk7 (activates) jnk12"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="igfr (activates) irs1" source="-25" target="-32">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="igfr (activates) irs1"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="igfr (activates) shc" source="-25" target="-18">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="igfr (activates) shc"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="sos (activates) ras" source="-24" target="-11">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="sos (activates) ras"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="ikk (activates) ikb" source="-23" target="-10">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="ikk (activates) ikb"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="akt (deactivates) raf1" source="-22" target="-34">
+    <att type="string" name="interaction" value="deactivates"/>
+    <att type="string" name="canonicalName" value="akt (deactivates) raf1"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="akt (activates) cot" source="-22" target="-6">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="akt (activates) cot"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="akt (deactivates) pak" source="-22" target="-37">
+    <att type="string" name="interaction" value="deactivates"/>
+    <att type="string" name="canonicalName" value="akt (deactivates) pak"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="traf6 (activates) sitpec" source="-21" target="-14">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="traf6 (activates) sitpec"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="traf6 (activates) map3k7" source="-21" target="-40">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="traf6 (activates) map3k7"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="il1r (activates) traf6" source="-20" target="-21">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="il1r (activates) traf6"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="p38 (activates) prak" source="-19" target="-41">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="p38 (activates) prak"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="shc (activates) grb2" source="-18" target="-29">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="shc (activates) grb2"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mkk6 (activates) p38" source="-17" target="-19">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="mkk6 (activates) p38"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="tgfa (activates) egfr" source="-16" target="-9">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="tgfa (activates) egfr"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="traf2 (activates) ask1" source="-15" target="-1">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="traf2 (activates) ask1"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="traf2 (activates) map3k7" source="-15" target="-40">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="traf2 (activates) map3k7"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="sitpec (activates) map3k1" source="-14" target="-30">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="sitpec (activates) map3k1"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="pi3k (activates) rac" source="-12" target="-35">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="pi3k (activates) rac"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="pi3k (activates) pip3" source="-12" target="-39">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="pi3k (activates) pip3"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="ras (activates) pi3k" source="-11" target="-12">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="ras (activates) pi3k"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="ras (activates) raf1" source="-11" target="-34">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="ras (activates) raf1"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="ras (activates) map3k1" source="-11" target="-30">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="ras (activates) map3k1"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="egfr (activates) shc" source="-9" target="-18">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="egfr (activates) shc"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="egfr (activates) grb2" source="-9" target="-29">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="egfr (activates) grb2"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="egfr (activates) pi3k" source="-9" target="-12">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="egfr (activates) pi3k"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="tnfr (activates) traf2" source="-8" target="-15">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="tnfr (activates) traf2"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="tnfr (activates) pi3k" source="-8" target="-12">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="tnfr (activates) pi3k"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="il1a (activates) il1r" source="-7" target="-20">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="il1a (activates) il1r"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="cot (activates) ikk" source="-6" target="-23">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="cot (activates) ikk"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mkk3 (activates) p38" source="-5" target="-19">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="mkk3 (activates) p38"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mkk3 (activates) prak" source="-5" target="-41">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="mkk3 (activates) prak"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="erk12 (activates) prak" source="-4" target="-41">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="erk12 (activates) prak"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="pdk1 (activates) akt" source="-3" target="-22">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="pdk1 (activates) akt"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="tnfa (activates) tnfr" source="-2" target="-8">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="tnfa (activates) tnfr"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="ask1 (activates) mkk4" source="-1" target="-28">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="ask1 (activates) mkk4"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="ask1 (activates) mkk7" source="-1" target="-26">
+    <att type="string" name="interaction" value="activates"/>
+    <att type="string" name="canonicalName" value="ask1 (activates) mkk7"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="3" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+</graph>
