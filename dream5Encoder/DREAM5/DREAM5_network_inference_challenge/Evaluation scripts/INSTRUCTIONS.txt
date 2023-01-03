@@ -1,0 +1,11 @@
+To run the scripts on the included sample data:
+
+Navigate to matlab/
+go.m  demonstrates scoring of one network
+go_all.m  computes the overall score based on all networks 
+
+To score your own predicted networks:
+In INPUT/predictions
+
+Replace the directory called myteam/ with a directory named according to your team name, containing the correspondingly named prediction files.
+

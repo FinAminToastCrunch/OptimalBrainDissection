@@ -1,0 +1,37 @@
+You can try the scoring script with the provided "dummy" data.
+
+Navigate to the matlab/ directory within MATLAB.
+
+Run:
+go.m
+
+--------------------
+
+Matlab requires the predictions to be in a certain format: instead of strings
+"NOT AVAILABLE" and "NA", Matlab requires "NaN".
+
+In order to score your own predictions, you can manually put your prediction file in this format in the directory called INPUT/my_processed_prediction.
+
+To convert the challenge submission file format into the format required by Matlab, follow these steps on a UNIX command line (Mac terminal, Cygwin on Windows, etc.).
+
+Delete the files from:
+INPUT/my_prediction
+INPUT/my_processed_prediction
+
+Put your prediction file in INPUT/my_prediction
+
+cd INPUT
+./run_me_first_to_preprocess_your_prediction_file.sh
+
+Now you should have a properly formatted prediction file in 
+INPUT/my_processed predictions.
+
+*** Now EDIT the matlab file called matlab/go.m ***
+
+so that the variable "edge_count" is the number of edges in your network.
+
+Within Matlab, navigate to the matlab directory.
+
+Run:
+go.m
+
