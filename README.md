@@ -5,12 +5,9 @@ The following repository contains code for pruning autoencoders to perform GRND.
 - Because the encoder learns a compressed representation of the input, some of the input features are discarded/not used during the compression--conversely, some features are extremely important and if they are not used, they harm the reconstruction capabilities. The connections between candidate regulator-targets are represented by a mask/adjacency-matrix. For example, if there were 5 protiens, there would be a mask of size 5x5. A potential regulator-target connection between protein 2 (regulator) and protein 3 (target) would be represented in this mask by a 1 in mask[2][3]. A 0 represents no suspected connection. When the autoencoder is constructed, the mask which represents the suspected regulator-target interactions is used to initialize the weights associated with the input. 
 - Pruning is the process of reducing the number of weights in a neural network while maintaining network performance. During pruning, we find the weights which are most important (ie, the ones which should be kept if we want to maintain reconstruction performance). In other words... what would happen if we prune the mask?
 
-**Key hypothesis: The weights which influence the error the most correspond with key regulator-target interactions.**
+**Key hypothesis: The weights which influence the error the most correspond with key regulator-target connections.**
 
  
-
-
-
 ## Old Code
 This repository contains the code for discovering regulatory networks given gene expressions over time. The code is seperated into two parts. The first part is *old code*. The old code are various scripts which have tried to tackle this problem before I (Fin), joined. This includes scripts to normalize and extract the gene data. And it also contains the initil attempt at creating an autoencoder. However, this existing code has various issues such as being implemented in tensorflow 1. These prior scripts are placed in the "old code" folder for reference. 
 
