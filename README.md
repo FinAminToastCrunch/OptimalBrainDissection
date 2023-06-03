@@ -1,7 +1,13 @@
-# Gene Regulatory Network Discovery (GRND) via Optimal Brain Dissection 
-The following repository contains code for pruning autoencoders to perform GRND. The idea is as follows: 
-- Autoencoders are tasked with reconstructing an input while maintaining a bottleneck in the size of the encoded input. They do this by learning a compressed representation of the input to be decoded by a decoder. The decoder is trained to reconstruct the input given the compressed representation produced by the encoder. The overall goal is to have the output of the autoencoder be as similar to the input as possible while maintaining a certain goal  
-- Because the encoder learns a compressed representation of the input, 
+# Gene Regulatory Network Discovery (GRND) via Optimal Brain Dissection (OBD)
+
+The following repository contains code for pruning autoencoders to perform GRND. GRND is the task of identifiying which protiens pairs have regulator-target interactions. The methdology of OBD is as follows: 
+- Autoencoders are tasked with reconstructing an input while maintaining a bottleneck in the size of the encoded input. They do this by learning a compressed representation of the input to be decoded by a decoder. The decoder is trained to reconstruct the input given the compressed representation produced by the encoder. The overall goal is to have the output of the autoencoder be as similar to the input as possible while maintaining a certain target compression ratio.   
+- Because the encoder learns a compressed representation of the input, some of the input features are discarded/not used during the compression--conversely, some features are extremely important and if they are not used, they harm the reconstruction capabilities. The connections between candidate regulator-targets are represented by a mask/adjacency-matrix. For example, if there were 5 protiens, there would be a mask of size 5x5. A potential regulator-target connection between protein 2 (regulator) and protein 3 (target) would be represented in this mask by a 1 in mask[2][3]. A 0 represents no suspected connection. When the autoencoder is constructed, the mask which represents the suspected regulator-target interactions is used to initialize the weights associated with the input. 
+- Pruning is the process of reducing the number of weights in a neural network while maintaining network performance. During pruning, we find the weights which are most important (ie, the ones which should be kept if we want to maintain reconstruction performance). In other words... what would happen if we prune the mask?
+
+**Key hypothesis: The weights which influence the error the most correspond with key regulator-target interactions. **
+
+ 
 
 
 
