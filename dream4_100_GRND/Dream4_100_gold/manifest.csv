@@ -1,0 +1,3 @@
+"ID","name","versionNumber","contentType","dataFileSizeBytes","createdBy","createdOn","modifiedBy","modifiedOn","parentId","synapseURL","dataFileMD5Hex"
+"syn3049736","DREAM4_InSilicoNetworks_GoldStandard.zip","1","application/x-zip","224899","375805","1420643012797","375805","1420643012797","syn3049735","https://www.synapse.org/#!Synapse:syn3049736.1","a09f0b69ec0ecdbb107a6f6e45e8ced8"
+"syn3049737","DREAM4_InSilicoNetworks_Supplementary_Information.zip","1","application/x-zip","300374","375805","1420643018409","375805","1420643018409","syn3049735","https://www.synapse.org/#!Synapse:syn3049737.1","5271a696eea8e5e5feb1284212a479fa"
