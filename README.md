@@ -1,4 +1,4 @@
-# Gene Regulatory Network Discovery (GRND) via Optimal Brain Dissection (OBD)
+# Official Repository of Optimal Brain Dissection in Dense Autoencoders: Towards Determining Feature Importance in -Omics Data (OBD)
 
 The following repository contains code for pruning autoencoders to perform GRND. GRND is the task of identifiying which protiens pairs have regulator-target interactions. The methdology of OBD is as follows: 
 - Autoencoders are tasked with reconstructing an input while maintaining a bottleneck in the size of the encoded input. They do this by learning a compressed representation of the input to be decoded by a decoder. The decoder is trained to reconstruct the input given the compressed representation produced by the encoder. The overall goal is to have the output of the autoencoder be as similar to the input as possible while maintaining a certain target compression ratio.   
