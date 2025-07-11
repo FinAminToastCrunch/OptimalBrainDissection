@@ -1,4 +1,6 @@
-# Official Repository of Optimal Brain Dissection in Dense Autoencoders: Towards Determining Feature Importance in -Omics Data (OBD). BioInspired Processing 2023 Best Paper Award 
+# Official Repository of Optimal Brain Dissection in Dense Autoencoders: Towards Determining Feature Importance in -Omics Data. BioInspired Processing 2023 Best Paper Award 🏆 
+
+Our paper can be found at https://ieeexplore.ieee.org/document/10379275
 
 Author's note: The name of the paper was inspired by LeCun's _Optimal_Brain_Damage_ paper. 
 
